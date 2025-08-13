@@ -1,17 +1,5 @@
 # SPEECH-RECOGNITION-SYSTEM
 
-COMPANY NAME : CODETECH IT SOLUTION
-
-NAME : ATUL KUMAR SINGH
-
-Intern ID :CT06DF1527
-
-DOMAIN :Embedded Systems
-
-DURATION :6 weeks
-
-MENTOR:NEELA SANTOSH
-
 DESCRIPTION
 
 The Speech Recognition System is an intelligent embedded project that allows a device to recognize and respond to human voice commands. It enables hands-free control of various appliances or systems using simple spoken commands, which makes it highly useful for smart home automation, assistive technology for differently-abled individuals, and voice-activated systems.
